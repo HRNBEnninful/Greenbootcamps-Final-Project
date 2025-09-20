@@ -64,12 +64,12 @@ jupyter notebook Greenbootcamps_Final_Project.ipynb
 - LSTM performed worst due to missed hyperparameter tuning.
 - Forecast plots demonstrated strong short-term alignment but higher uncertainty for long horizons.
 
-![Multi-Indicator Plots](Images/Multi-Indicator Plots.png)
-![Seasonality for AAPL](Images/Seasonality for AAPL.png)
+![Multi-Indicator Plots](Images/Multi-Indicator_Plots.png)
+![Seasonality for AAPL](Images/Seasonality_for_AAPL.png)
 ![Metrics](Images/Metrics.png)
-![Hypertuned Metrics](Images/Hypertuned Metrics.png)
-![Backtest results for AAPL](Images/Backtest results for AAPL.png)
-![Price Predictions for AAPL](Images/Price Predictions for AAPL.png)
+![Hypertuned Metrics](Images/Hypertuned_Metrics.png)
+![Backtest results for AAPL](Images/Backtest_results_for_AAPL.png)
+![Price Predictions for AAPL](Images/Price_Predictions_for_AAPL.png)
 
 
 
@@ -89,5 +89,6 @@ Henry Reynolds Nana Benyin Enninful
 📧 Email: hrnbenninful@gmail.com
 🐙 GitHub: @HRNBEnninful
 💼 LinkedIn: https://www.linkedin.com/in/henryrnbenninful/
+
 
 
