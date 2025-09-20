@@ -85,10 +85,11 @@ Please:
 This project is licensed under the MIT License – feel free to use and modify.
 
 ## 📬 Contact
-Henry Reynolds Nana Benyin Enninful Dr. rer. nat.
+Henry Reynolds Nana Benyin Enninful, Dr. rer. nat.
 - 📧 Email: hrnbenninful@gmail.com
 - 🐙 GitHub: @HRNBEnninful
 - 💼 LinkedIn: https://www.linkedin.com/in/henryrnbenninful/
+
 
 
 
